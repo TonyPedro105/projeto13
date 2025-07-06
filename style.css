@@ -171,6 +171,7 @@ footer {
     display: flex;
     justify-content: space-evenly;
     position: sticky;
+    line-height: 2.5;
 }
 
 .bold {
